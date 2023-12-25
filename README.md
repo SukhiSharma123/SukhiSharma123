@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukhchandra Sharma</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
-<img akign="right" width="400" alt="coding" scr="https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/dev-python.png">
+<img align="right" width="400" alt="coding" src="https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/dev-python.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhisharma123&label=Profile%20views&color=0e75b6&style=flat" alt="sukhisharma123" /> </p>
 
